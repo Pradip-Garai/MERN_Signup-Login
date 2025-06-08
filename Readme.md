@@ -2,7 +2,7 @@
 
 A full-stack web application featuring a modern authentication system with a beautiful dark-themed UI. Built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-![Project Preview](screenshot.png)
+![Project Preview]
 
 ## 🚀 Features
 
