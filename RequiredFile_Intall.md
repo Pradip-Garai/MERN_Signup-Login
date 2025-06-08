@@ -1,4 +1,4 @@
-<b>Backend</b><br>
+<b><u>Backend</u></b><br>
 
 🟢 npm i bcrypt@^6.0.0 <br>
 🟢 npm i body-parser@^2.2.0 <br>
@@ -12,7 +12,7 @@
 🟢 npm i nodemon@^3.1.10 <br>
 🟢 npm i react-router-dom@^7.6.1 <br>
 
-<b>Frontend</b><br>
-🟢 npm create vite@latest app_name <br>
+<b><u>Frontend</u></b><br>
 
+🟢 npm create vite@latest app_name <br>
 🟢 npm i react-tostify <br>
