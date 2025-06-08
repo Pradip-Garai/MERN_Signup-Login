@@ -1,16 +1,16 @@
 <b><u>Backend</u></b><br>
 
-🟢 npm i bcrypt@^6.0.0 <br>
-🟢 npm i body-parser@^2.2.0 <br>
-🟢 npm i cookie-parser@^1.4.7 <br>
-🟢 npm i cors@^2.8.5 <br>
-🟢 npm i dotenv@^16.5.0 <br>
-🟢 npm i express@^5.1.0 <br>
-🟢 npm i joi@^17.13.3 <br>
-🟢 npm i jsonwebtoken@^9.0.2 <br>
-🟢 npm i mongoose@^8.15.1 <br>
-🟢 npm i nodemon@^3.1.10 <br>
-🟢 npm i react-router-dom@^7.6.1 <br>
+🟢 npm i bcrypt <br>
+🟢 npm i body-parser <br>
+🟢 npm i cookie-parser <br>
+🟢 npm i cors <br>
+🟢 npm i dotenv <br>
+🟢 npm i express<br>
+🟢 npm i joi<br>
+🟢 npm i jsonwebtoken <br>
+🟢 npm i mongoose <br>
+🟢 npm i nodemon<br>
+🟢 npm i react-router-dom <br>
 
 <b><u>Frontend</u></b><br>
 
