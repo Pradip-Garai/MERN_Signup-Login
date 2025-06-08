@@ -52,14 +52,12 @@ A full-stack web application featuring a modern authentication system with a bea
     ├── Controllers/
     │   └── authController.js
     ├── Middleware/
-    │   ├── AuthProducts.js
     │   └── Validation.js
     ├── Models/
     │   ├── db.js
     │   └── users.js
     ├── Routes/
     │   ├── auth.js
-    │   └── ProductsRouter.js
     └── Server.js
 ```
 
