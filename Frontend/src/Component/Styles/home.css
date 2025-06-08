@@ -1,0 +1,39 @@
+.h1{
+    margin-top: 15rem;
+    font-size: 30px;
+    color: greenyellow;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  margin-top: 1rem;
+  background: linear-gradient(90deg, #2851cc 0%, #1ecbe1 100%);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 15px rgba(30, 203, 225, 0.2);
+}
+
+.btn:active {
+  transform: translateY(0);
+}
+.btn{
+    width: 5rem;
+    height: 3rem;
+    margin-left: 45rem;
+}
+
+@media (max-width: 480px){
+    .btn {
+    padding: 10px;
+    }
+}
